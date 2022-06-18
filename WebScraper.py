@@ -72,7 +72,9 @@ class WebScraper:
             "gold": "No bitches^2",
             "Diamond": "Fatherless...",
             "Master": "Wet napkin",
+            "challenger": "Drops her pants",
             "unranked": "Sane human",
+            
         }
         message = choices.get(rank.lower(), "default")
 
